@@ -21,6 +21,6 @@ sib.addEventListener("click", function() {
     document.getElementById("p").removeAttribute("hidden")
     console.log("click")
     document.getElementById("1").style.color = "transparent";
-    document.getElementById("Si").style.display = "none";
     document.getElementById("No").style.display = "none";
+    document.getElementById("Si").style.display = "none";
 })
